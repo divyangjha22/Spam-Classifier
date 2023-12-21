@@ -46,7 +46,7 @@ To utilize the SMS Spam Classifier:
 ## Developer Information
 
 - **Developer:** Divyang Jha
-- **Profiles:** [LinkedIn]([profile_link](https://www.linkedin.com/in/divyang-jha-6b3451201/)), [LeetCode]([profile_link](https://leetcode.com/divyang_2222/)), [GeeksforGeeks]([profile_link](https://auth.geeksforgeeks.org/user/divyang_2222))
+- **Profiles:** [LinkedIn]([https://www.linkedin.com/in/divyang-jha-6b3451201/]), [LeetCode]([profile_link](https://leetcode.com/divyang_2222/)), [GeeksforGeeks]([profile_link](https://auth.geeksforgeeks.org/user/divyang_2222))
 - **Skills:** Machine Learning, Natural Language Processing, Python, Data Analysis
 
 ---
